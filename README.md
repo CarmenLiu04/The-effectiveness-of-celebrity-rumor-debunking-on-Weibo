@@ -1,5 +1,6 @@
 # The-effectiveness-of-celebrity-rumor-debunking-on-Weibo
-The project includes WeiboSpider-master:"The open-source crawler tool used, which is a GitHub link to the original author：https://github.com/nghuyong/WeiboSpider/tree/master".
+The project includes 
+WeiboSpider-master:"The open-source crawler tool used, which is a GitHub link to the original author：https://github.com/nghuyong/WeiboSpider/tree/master".
 
 data: "dataset used to draw conclusions from three hypotheses".
 
