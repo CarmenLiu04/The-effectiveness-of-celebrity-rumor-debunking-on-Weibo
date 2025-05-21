@@ -3,8 +3,6 @@ The project includes
 
 WeiboSpider-master:"The open-source crawler tool used, here is a GitHub link to the original author：https://github.com/nghuyong/WeiboSpider/tree/master".
 
-data: "dataset used to draw conclusions from three hypotheses".
-
 dei_calculate: "code for calculating DEI values".
 
 model: "the code used for model fine-tuning, and the training and test sets used".
